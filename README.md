@@ -1,4 +1,4 @@
-# shangjin-h5
+# vue-template
 
 ## Project setup
 ```
